@@ -9,6 +9,8 @@ if __name__ == '__main__':
     res = requests.get(url)
     if res.status_code != 200:
         pass
+    print(url)
+    print(res.text)
     image_info = json.loads(res.text)['MediaContents'][0]
     image_date = image_info['Ssd'].split('_')[0]
     image_content = image_info['ImageContent']
