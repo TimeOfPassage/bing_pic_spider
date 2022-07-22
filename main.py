@@ -28,6 +28,7 @@ if __name__ == '__main__':
     text += f"> 版权: {image_copyright}" + "\r\n"
     text += f" {image_description}" + "\r\n"
     text += f"![{image_title}]({image_url})"
+    print(text)
     # 写入文件
     with open("README.md", 'w', encoding="UTF-8") as f:
         f.write(text)
