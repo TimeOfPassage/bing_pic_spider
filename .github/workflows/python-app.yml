@@ -6,8 +6,9 @@ name: Python application
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:
+    # 定时执行，Runs at 17:00 UTC every day
+    - cron:  '0 17 * * *'
 
 permissions:
   contents: read
