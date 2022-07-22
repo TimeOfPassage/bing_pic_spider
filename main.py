@@ -6,7 +6,12 @@ import requests as requests
 if __name__ == '__main__':
     # 1. call bing api fetch all picture url
     url = "https://cn.bing.com/hp/api/model"
-    res = requests.get(url)
+    res = requests.get(url, headers={
+        "accept-language": "zh-CN,zh;q=0.9",
+        ":authority": "cn.bing.com",
+        "referer": "https://cn.bing.com/",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    })
     if res.status_code != 200:
         pass
     print(url)
