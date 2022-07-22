@@ -18,7 +18,8 @@ if __name__ == '__main__':
     image_copyright = image_content['Copyright']
     image = image_content['Image']
     image_url = image['Url']
-
+    if not str.startswith(image_url, "https://s.cn.bing.net/"):
+        image_url = "https://s.cn.bing.net" + image_url
     # 格式组装
     text = f"### {image_title}" + "\r\n"
     text += f"> {image_headline}" + "\r"
