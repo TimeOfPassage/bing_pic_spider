@@ -1,4 +1,4 @@
-### 科托尔湾的圣乔治海峡和圣母湾，黑山
-> 用誓言打造的岛屿> > 日期: 20220721> > 版权: © Dmitrii Sakharov/Shutterstock
- 在黑山佩拉斯特的当地传说里，1452年，有两兄弟在一次危险的海上航行返回途中，经过圣乔治岛（科托尔湾的一个天然岛屿）附近的水域，发现了一幅圣母和圣子的画像。这两兄弟中的一人在旅途中伤了腿，但到了早上就痊愈了。两人认为这是一个预兆，于是立誓要在发现画像的地方建造一座教堂来纪念圣母玛利亚。随后他们便开始往那里扔石头，甚至凿沉旧船。于是，一项传统由此诞生。几十年来，佩拉斯特的渔民在出海之前都会在那个地方往水里扔一块石头。
-![科托尔湾的圣乔治海峡和圣母湾，黑山](https://s.cn.bing.net/th?id=OHR.SGIMontenegro_ZH-CN4155831603_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+### Our Lady of the Rocks and Saint George Island in the Bay of Kotor, Perast, Montenegro
+> An island made from a vow> > 日期: 20220722> > 版权: © Dmitrii Sakharov/Shutterstock
+ Local legend here in Perast, Montenegro, has it that two brothers were returning from a dangerous sea voyage in 1452 when they spotted an icon of the Virgin Mary and Child in the waters near Saint George, a natural island in the Bay of Kotor. One of the brothers had injured his leg on the journey, but in the morning it had healed. Taking this as an omen, they vowed to honor the Virgin Mary by building her a church on the spot where they'd found the icon. They began dropping stones there, and even scuttling old ships. A tradition was born, and over decades, the fishermen of Perast would drop a stone in the water at that spot before heading to sea.
+![Our Lady of the Rocks and Saint George Island in the Bay of Kotor, Perast, Montenegro](https://s.cn.bing.net/th?id=OHR.SGIMontenegro_EN-US4280095085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
