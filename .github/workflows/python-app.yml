@@ -15,9 +15,7 @@ permissions:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.10
@@ -41,5 +39,5 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.MY_GIT_TOKEN }}
-        branch: main
+        branch: ${{ github.ref }}
 
