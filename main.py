@@ -41,8 +41,8 @@ if __name__ == '__main__':
     with open("README.md", 'w', encoding="UTF-8") as f:
         f.write(text)
     # 归档留存
-    if not os.path.exists("archive"):
-        os.makedirs("archive")
+    if not os.path.exists("./archive"):
+        os.makedirs("./archive")
     archive_file = f"{image_date}.md"
-    with open("archive/" + archive_file, 'w', encoding="UTF-8") as f:
+    with open("./archive/" + archive_file, 'w', encoding="UTF-8") as f:
         f.write(text)
