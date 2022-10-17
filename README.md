@@ -1,5 +1,5 @@
-### 捷克共和国波希米亚-摩拉维亚高地的长耳鸮
-> “长耳”猫头鹰> > 日期: 20221016> > 版权: © Ondrej Prosicky/Alamy
+### Bridalveil Fall, Yosemite National Park, California
+> 风之精灵> > 日期: 20221017> > 版权: © Jeff Foott/Minden Pictures
    
- 树上是谁？这是一只典型的长耳鸮，有时也被称为小角鸮。它是世界上数量最多的鸮之一，种群数量约为200万-550万，广泛分布于北半球。照片中的长耳鸮被拍摄于捷克。它们能适应各种各样的栖息地，包括北极附近。
-![捷克共和国波希米亚-摩拉维亚高地的长耳鸮](https://s.cn.bing.net/th?id=OHR.SwedenOwl_ZH-CN6960032096_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+ 优胜美地国家公园有数千个瀑布，但没有一个像新娘面纱瀑布那样出名。正如照片中所见，新娘面纱通常是优胜美地瀑布游客第一次遇到的地方，因为它正好位于优胜美地谷口。这个美丽的瀑布向下俯冲617英尺，全年流动，水源来自10英里外的湖泊。当水流较轻时，风将水吹向侧面，巨大的水幕墙随风摇曳，跃过石壁，溅湿木桥，将周围的草木淋得郁郁葱葱，远观，有如轻风吹拂起新娘的面纱一般，唯美动人。
+![Bridalveil Fall, Yosemite National Park, California](https://s.cn.bing.net/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
