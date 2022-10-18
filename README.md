@@ -1,5 +1,5 @@
-### Bridalveil Fall, Yosemite National Park, California
-> 风之精灵> > 日期: 20221017> > 版权: © Jeff Foott/Minden Pictures
+### 秋天的图林根森林与瓦特堡城堡，德国
+> 等等，这山上得有座城堡！> > 日期: 20221018> > 版权: © ezypix/Getty Images
    
- 优胜美地国家公园有数千个瀑布，但没有一个像新娘面纱瀑布那样出名。正如照片中所见，新娘面纱通常是优胜美地瀑布游客第一次遇到的地方，因为它正好位于优胜美地谷口。这个美丽的瀑布向下俯冲617英尺，全年流动，水源来自10英里外的湖泊。当水流较轻时，风将水吹向侧面，巨大的水幕墙随风摇曳，跃过石壁，溅湿木桥，将周围的草木淋得郁郁葱葱，远观，有如轻风吹拂起新娘的面纱一般，唯美动人。
-![Bridalveil Fall, Yosemite National Park, California](https://s.cn.bing.net/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
+ 在你欣赏今天照片里德国图林根森林的美景时，请注意远处的城堡。那是瓦特堡，建于中世纪。马丁·路德流亡期间就在瓦特堡将《新约》翻译成了德语。它是该地区最受欢迎的旅游胜地，并因其典型的中世纪建筑特色而闻名于世。
+![秋天的图林根森林与瓦特堡城堡，德国](https://s.cn.bing.net/th?id=OHR.WartburgCastle_ZH-CN4201605751_1920x1080.jpg&rf=LaDigue_1920x1080.jpg)
